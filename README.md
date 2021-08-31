@@ -5,7 +5,7 @@ Web Development student at Mid Sweden University
 //
 Jonas Carlsson
 
-Contact info:\
+***Contact info:***\
 Phone: +46707 882930\
 Email: carlsson5030@hotmail.com
 
