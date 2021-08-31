@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Web Development student at Mid Sweden University
+
+//
+Jonas Carlsson
+
+Contact info:
+Phone: +46707 882930
+Email: carlsson5030@hotmail.com
+
 <!--
 **JocarWebDev/JocarWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
