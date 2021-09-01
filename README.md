@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-Web Development student at Mid Sweden University
+Web Development student at Mid Sweden University.
+
+- 🌱 I’m currently learning web development
 
 //
 Jonas Carlsson
 
-***Contact info:***\
+- 📫 How to reach me: ...\
 Phone: +46707 882930\
 Email: carlsson5030@hotmail.com
 
