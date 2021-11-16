@@ -2,7 +2,7 @@
 
 Web Development student at Mid Sweden University.
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently studying web development
 
 //
 Jonas Carlsson
